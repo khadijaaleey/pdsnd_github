@@ -7,7 +7,7 @@
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The project involved analysing bikeshare data to provide interactive user program that helps understand the statistics of US Bikeshare.  
 
 ### Files used
 Include the files used
