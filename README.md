@@ -10,7 +10,9 @@ Explore US Bikeshare Data
 The project involved analysing bikeshare data to provide interactive user program that helps understand the statistics of US Bikeshare.  
 
 ### Files used
-Include the files used
+washington.csv
+chicago.csv
+new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
